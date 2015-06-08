@@ -41,7 +41,9 @@ def fileList(fileInput):
         words=line.split()
         for word in words:
             word = word.lower()
-            wordList.append(word)
+            # Don't append it if the word is blank.
+            if word != "":
+                wordList.append(word)
     # Close the file once everything is in memory.
     openFile.close()
     # Remove all duplicate words.
@@ -62,25 +64,29 @@ def buildDict(cliArgs, characterIgnoreList, wordedIgnoreList):
         for word in words:
             # Ignore all upper case
             word = word.lower()
-            # If word contains formatting character, remove them.
-            for char in characterIgnoreList:
-                word = word.replace(char, "")
-                # Try and convert to unicode characters
-                try:
-                    word = unicode(word, 'ascii', 'ignore')
-                # Ignore if it's already unicode.
-                except TypeError:
+            # Remove any possible whitespace
+            word = word.strip()
+            # If it's a blank string, somehow, don't do anything.
+            if word != " ":
+                # If word contains formatting character, remove them.
+                for char in characterIgnoreList:
+                    word = word.replace(char, "")
+                    # Try and convert to unicode characters
+                    try:
+                        word = unicode(word, 'ascii', 'ignore')
+                    # Ignore if it's already unicode.
+                    except TypeError:
+                        pass
+                # If word in ignore list, skip it.
+                if word in wordedIgnoreList:
                     pass
-            # If word in ignore list, skip it.
-            if word in wordedIgnoreList:
-                pass
-            else:
-                # If word in dict, increment value by 1
-                if word in dictList:
-                    dictList[word] = dictList[word] + 1
-                # If word not in dict, add to dict
                 else:
-                    dictList[word] = 1
+                    # If word in dict, increment value by 1
+                    if word in dictList:
+                        dictList[word] = dictList[word] + 1
+                    # If word not in dict, add to dict
+                    else:
+                        dictList[word] = 1
     # Close file
     openFile.close()
     # Sort dict by most frequently occurring.

@@ -47,27 +47,32 @@ def fileList(fileInput):
     wordList.sort()
     return wordList
 
+# This function will output our final list for us.
 def outputList(cliArgs, finalWordList):
     # Alphabetise our final list.
     finalWordList.sort()
-    # Print to the console, or an output file.
+    # Print to an output file.
     if cliArgs.output:
         outFile = open(cliArgs.output, 'w+')
         for word in finalWordList:
             outFile.write(word + "\n")
         outFile.close()
     else:
+        # Or to the console.
         for word in finalWordList:
             print(word)
 
+# This function strips out the formatting characters for us.
 def removeFormat(wordList, formatCharsList):
     newWordList = []
     for word in wordList:
         for char in formatCharsList:
             word = word.replace(char, "")
             try:
+                # Try and encode it to unicode
                 word = unicode(word, 'ascii', 'ignore')
             except TypeError:
+                # But don't particularly care if it fails.
                 pass
         newWordList.append(word)
     return newWordList

@@ -2,21 +2,9 @@ kyle
 
 59
 
-was
-
-36
-
 fiona
 
 30
-
-an
-
-27
-
-are
-
-26
 
 magic
 
@@ -42,14 +30,6 @@ shrugged
 
 15
 
-had
-
-14
-
-don't
-
-13
-
 glared
 
 13
@@ -58,10 +38,6 @@ winced
 
 13
 
-you're
-
-12
-
 turned
 
 12
@@ -69,18 +45,6 @@ turned
 laughed
 
 12
-
-i'm
-
-11
-
-did
-
-11
-
-am
-
-11
 
 students
 
@@ -94,15 +58,7 @@ eyes
 
 9
 
-were
-
-9
-
 blinked
-
-9
-
-wasn't
 
 9
 
@@ -111,10 +67,6 @@ frowned
 8
 
 nymph
-
-8
-
-it's
 
 8
 
@@ -146,15 +98,7 @@ soul
 
 7
 
-didn't
-
-7
-
 elf
-
-7
-
-said
 
 7
 
@@ -163,10 +107,6 @@ elves
 7
 
 glanced
-
-6
-
-sat
 
 6
 
@@ -266,10 +206,6 @@ slowly
 
 4
 
-used
-
-4
-
 applesilver
 
 4
@@ -286,19 +222,7 @@ hall
 
 4
 
-has
-
-4
-
-using
-
-4
-
 memories
-
-4
-
-does
 
 4
 
@@ -346,7 +270,7 @@ swallowed
 
 3
 
-spoke
+wand
 
 3
 
@@ -422,10 +346,6 @@ humans
 
 3
 
-can't
-
-3
-
 been
 
 3
@@ -439,10 +359,6 @@ expected
 3
 
 fun
-
-3
-
-wand
 
 3
 
@@ -519,10 +435,6 @@ aimimancers
 2
 
 fists
-
-2
-
-anyways
 
 2
 
@@ -750,11 +662,11 @@ induction
 
 2
 
-doesn't
+done
 
 2
 
-done
+doesn't
 
 2
 
@@ -783,6 +695,10 @@ nicer
 2
 
 seen
+
+2
+
+dozen
 
 2
 
@@ -874,6 +790,10 @@ softly
 
 2
 
+anyways
+
+2
+
 tend
 
 2
@@ -938,10 +858,6 @@ parts
 
 2
 
-dozen
-
-2
-
 muffled
 
 2
@@ -971,6 +887,10 @@ thankfully
 2
 
 hated
+
+2
+
+match
 
 2
 
@@ -1010,14 +930,6 @@ surge
 
 2
 
-block
-
-2
-
-match
-
-2
-
 lies
 
 2
@@ -1047,6 +959,10 @@ dangerous
 2
 
 pleasant
+
+2
+
+block
 
 2
 
@@ -1474,10 +1390,6 @@ stetisse
 
 1
 
-heh
-
-1
-
 expanding
 
 1
@@ -1630,6 +1542,10 @@ lingua
 
 1
 
+duke
+
+1
+
 swamped
 
 1
@@ -1742,11 +1658,11 @@ james
 
 1
 
-awkwardly
+feast
 
 1
 
-feast
+leather
 
 1
 
@@ -2066,7 +1982,7 @@ showed
 
 1
 
-hysterical
+heh
 
 1
 
@@ -2091,10 +2007,6 @@ aimi
 1
 
 providing
-
-1
-
-silence
 
 1
 
@@ -2166,10 +2078,6 @@ becoming
 
 1
 
-greatest
-
-1
-
 gravy
 
 1
@@ -2215,10 +2123,6 @@ stronger
 1
 
 wind
-
-1
-
-nightmares
 
 1
 
@@ -2570,6 +2474,10 @@ conquered
 
 1
 
+comes
+
+1
+
 madness
 
 1
@@ -2607,6 +2515,10 @@ destroyed
 1
 
 invented
+
+1
+
+decent
 
 1
 
@@ -2659,10 +2571,6 @@ covered
 1
 
 careful
-
-1
-
-duke
 
 1
 
@@ -2747,6 +2655,10 @@ slammed
 1
 
 corridor
+
+1
+
+gets
 
 1
 
@@ -2838,7 +2750,7 @@ boring
 
 1
 
-comes
+greatest
 
 1
 
@@ -2858,7 +2770,7 @@ protocol
 
 1
 
-birth
+listening
 
 1
 
@@ -2974,7 +2886,7 @@ necromancer's
 
 1
 
-listening
+birth
 
 1
 
@@ -3126,15 +3038,15 @@ isn't
 
 1
 
-decent
-
-1
-
 magicless
 
 1
 
 os
+
+1
+
+silence
 
 1
 
@@ -3215,6 +3127,10 @@ troublemaking
 1
 
 damn
+
+1
+
+hysterical
 
 1
 
@@ -3314,6 +3230,10 @@ stripped
 
 1
 
+nightmares
+
+1
+
 cringed
 
 1
@@ -3374,7 +3294,7 @@ pierced
 
 1
 
-gets
+awkwardly
 
 1
 
@@ -3391,10 +3311,6 @@ calls
 1
 
 potato
-
-1
-
-leather
 
 1
 

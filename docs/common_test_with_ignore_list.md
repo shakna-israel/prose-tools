@@ -42,15 +42,11 @@ aimimancyhttpnecromancersapprenticeshaknaisraelcomimgsymbolaimimancysvg
 
 alternative
 
-am
-
 amongst
 
 amulet
 
 amy
-
-an
 
 angrily
 
@@ -73,8 +69,6 @@ apprenticehttpshaknaisraelgitbooksionecromancersapprentice
 aptitude
 
 aquamancy
-
-are
 
 aren't
 
@@ -221,8 +215,6 @@ c
 calls
 
 came
-
-can't
 
 cannot
 
@@ -404,10 +396,6 @@ developed
 
 device
 
-did
-
-didn't
-
 died
 
 dimittite
@@ -428,13 +416,9 @@ disgusting
 
 dissuade
 
-does
-
 doesn't
 
 doing
-
-don't
 
 donated
 
@@ -716,8 +700,6 @@ growled
 
 guys
 
-had
-
 hadn't
 
 hall
@@ -727,8 +709,6 @@ handle
 hands
 
 harsh
-
-has
 
 hated
 
@@ -788,8 +768,6 @@ i'd
 
 i'll
 
-i'm
-
 i've
 
 ice
@@ -835,8 +813,6 @@ is
 island
 
 isn't
-
-it's
 
 james
 
@@ -1214,13 +1190,9 @@ rumble
 
 rung
 
-said
-
 sanamancy
 
 sapping
-
-sat
 
 saved
 
@@ -1363,8 +1335,6 @@ spell
 spells
 
 splinter
-
-spoke
 
 spot
 
@@ -1578,13 +1548,9 @@ unusually
 
 unwanted
 
-used
-
 user
 
 users
-
-using
 
 utter
 
@@ -1638,10 +1604,6 @@ warble
 
 warned
 
-was
-
-wasn't
-
 watching
 
 wave
@@ -1657,8 +1619,6 @@ wearing
 welcome
 
 went
-
-were
 
 whacky
 
@@ -1705,8 +1665,6 @@ yelled
 yellow
 
 you'll
-
-you're
 
 youngest
 

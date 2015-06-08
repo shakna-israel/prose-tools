@@ -38,6 +38,7 @@ def fileList(fileInput):
     # Let's split each word apart into a list.
         words=line.split()
         for word in words:
+            word = word.lower()
             wordList.append(word)
     # Close the file once everything is in memory.
     openFile.close()
@@ -55,7 +56,7 @@ def outputList(cliArgs, finalWordList):
     if cliArgs.output:
         outFile = open(cliArgs.output, 'w+')
         for word in finalWordList:
-            outFile.write(word + "\n")
+            outFile.write(word + "\n\n")
         outFile.close()
     else:
         # Or to the console.

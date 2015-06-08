@@ -78,7 +78,7 @@ def outputList(cliArgs, finalWordList):
         for word in finalWordList:
             # Because the list is actually a tuple:
             for key in word:
-                outFile.write(str(key) + "\n")
+                outFile.write(str(key) + "\n\n")
         outFile.close()
     else:
         for word in finalWordList:

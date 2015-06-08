@@ -97,7 +97,14 @@ def outputList(cliArgs, finalWordList):
         for word in finalWordList:
             # Because the list is actually a tuple:
             for key in word:
-                outFile.write(str(key) + "\n\n")
+                # Naively check if the key is the count or the string
+                try:
+                    # If it's the count, append the line break.
+                    key + 1
+                    outFile.write(str(key) + "\n\n")
+                except TypeError:
+                    # If it's not, don't add a line break.
+                    outFile.write(key + " ")
         outFile.close()
     else:
         for word in finalWordList:

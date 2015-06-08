@@ -1,3340 +1,1670 @@
-kyle
+kyle 59
 
-59
+fiona 30
 
-fiona
+magic 23
 
-30
+is 23
 
-magic
+abigail 23
 
-23
+smiled 18
 
-is
+bateman 16
 
-23
+shrugged 15
 
-abigail
+glared 13
 
-23
+winced 13
 
-smiled
+turned 12
 
-18
+laughed 12
 
-bateman
+students 11
 
-16
+sighed 10
 
-shrugged
+eyes 9
 
-15
+blinked 9
 
-glared
+frowned 8
 
-13
+nymph 8
 
-winced
+mouth 8
 
-13
+aimimancy 8
 
-turned
+nodded 8
 
-12
+ 7
 
-laughed
+stood 7
 
-12
+grinned 7
 
-students
+soul 7
 
-11
+elf 7
 
-sighed
+elves 7
 
-10
+glanced 6
 
-eyes
+bracken 6
 
-9
+rolled 6
 
-blinked
+tongue 6
 
-9
+walked 6
 
-frowned
+sorry 5
 
-8
+detention 5
 
-nymph
+stared 5
 
-8
+aimimancer 5
 
-mouth
+hands 5
 
-8
+schools 5
 
-aimimancy
+books 5
 
-8
+looked 5
 
-nodded
+going 5
 
-8
+ears 5
 
+appeared 5
 
+vitamancer 4
 
-7
+heard 4
 
-stood
+shook 4
 
-7
+nymphs 4
 
-grinned
+hell 4
 
-7
+lunch 4
 
-soul
+you'll 4
 
-7
+chicken 4
 
-elf
+slowly 4
 
-7
+applesilver 4
 
-elves
+magical 4
 
-7
+necromancer 4
 
-glanced
+hall 4
 
-6
+memories 4
 
-bracken
+transfer 4
 
-6
+trying 4
 
-rolled
+rubbed 4
 
-6
+felt 4
 
-tongue
+friends 4
 
-6
+skin 3
 
-walked
+worse 3
 
-6
+kyle's 3
 
-sorry
+fiona's 3
 
-5
+scales 3
 
-detention
+swallowed 3
 
-5
+wand 3
 
-stared
+scratched 3
 
-5
+known 3
 
-aimimancer
+terramancy 3
 
-5
+means 3
 
-hands
+things 3
 
-5
+powerful 3
 
-schools
+snake 3
 
-5
+bond 3
 
-books
+brunette 3
 
-5
+introduction 3
 
-looked
+vitamancy 3
 
-5
+towards 3
 
-going
+headmaster 3
 
-5
+pixie 3
 
-ears
+cloak 3
 
-5
+touched 3
 
-appeared
+eyebrow 3
 
-5
+humans 3
 
-vitamancer
+been 3
 
-4
+mage 3
 
-heard
+expected 3
 
-4
+fun 3
 
-shook
+being 3
 
-4
+spells 3
 
-nymphs
+except 3
 
-4
+rules 3
 
-hell
+aimimancyhttpnecromancersapprenticeshaknaisraelcomimgsymbolaimimancysvg 3
 
-4
+knew 3
 
-lunch
+broken 3
 
-4
+dinner 3
 
-you'll
+raised 3
 
-4
+skilled 3
 
-chicken
+made 3
 
-4
+yelled 3
 
-slowly
+freak 3
 
-4
+idiot 3
 
-applesilver
+sleep 2
 
-4
+abigail's 2
 
-magical
+mancer 2
 
-4
+aimimancers 2
 
-necromancer
+fists 2
 
-4
+sanamancy 2
 
-hall
+wave 2
 
-4
+continued 2
 
-memories
+basics 2
 
-4
+wincing 2
 
-transfer
+shut 2
 
-4
+picked 2
 
-trying
+fingers 2
 
-4
+freaks 2
 
-rubbed
+tips 2
 
-4
+screams 2
 
-felt
+splinter 2
 
-4
+mages 2
 
-friends
+transfigure 2
 
-4
+cudentur 2
 
-skin
+brilliant 2
 
-3
+changed 2
 
-worse
+kilroy 2
 
-3
+i'd 2
 
-kyle's
+smoke 2
 
-3
+jaw 2
 
-fiona's
+someone's 2
 
-3
+angrily 2
 
-scales
+aptitude 2
 
-3
+limb 2
 
-swallowed
+proditor 2
 
-3
+standing 2
 
-wand
+snake's 2
 
-3
+taken 2
 
-scratched
+sociopath 2
 
-3
+hurt 2
 
-known
+sent 2
 
-3
+anybody 2
 
-terramancy
+meant 2
 
-3
+awesome 2
 
-means
+pushed 2
 
-3
+bend 2
 
-things
+absolute 2
 
-3
+wrist 2
 
-powerful
+neck 2
 
-3
+glancing 2
 
-snake
+developed 2
 
-3
+pointed 2
 
-bond
+pitch 2
 
-3
+energies 2
 
-brunette
+interesting 2
 
-3
+fix 2
 
-introduction
+skipped 2
 
-3
+spell 2
 
-vitamancy
+meat 2
 
-3
+found 2
 
-towards
+went 2
 
-3
+friendship 2
 
-headmaster
+quivered 2
 
-3
+et 2
 
-pixie
+induction 2
 
-3
+done 2
 
-cloak
+doesn't 2
 
-3
+given 2
 
-touched
+caught 2
 
-3
+we're 2
 
-eyebrow
+weakly 2
 
-3
+wandering 2
 
-humans
+nicer 2
 
-3
+seen 2
 
-been
+dozen 2
 
-3
+transference 2
 
-mage
+gingerly 2
 
-3
+channel 2
 
-expected
+opposite 2
 
-3
+huh 2
 
-fun
+object 2
 
-3
+insanity 2
 
-being
+device 2
 
-3
+girl's 2
 
-spells
+average 2
 
-3
+came 2
 
-except
+shot 2
 
-3
+carefully 2
 
-rules
+flicked 2
 
-3
+nervous 2
 
-aimimancyhttpnecromancersapprenticeshaknaisraelcomimgsymbolaimimancysvg
+spun 2
 
-3
+plate 2
 
-knew
+handle 2
 
-3
+famous 2
 
-broken
+cannot 2
 
-3
+enemy 2
 
-dinner
+softly 2
 
-3
+anyways 2
 
-raised
+tend 2
 
-3
+adept 2
 
-skilled
+chosen 2
 
-3
+expression 2
 
-made
+nearby 2
 
-3
+studioque 2
 
-yelled
+learning 2
 
-3
+proceeded 2
 
-freak
+due 2
 
-3
+terrible 2
 
-idiot
+surprised 2
 
-3
+aid 2
 
-sleep
+disappear 2
 
-2
+wearing 2
 
-abigail's
+saw 2
 
-2
+parts 2
 
-mancer
+muffled 2
 
-2
+moving 2
 
-aimimancers
+colour 2
 
-2
+abilities 2
 
-fists
+front 2
 
-2
+scattering 2
 
-sanamancy
+thankfully 2
 
-2
+hated 2
 
-wave
+match 2
 
-2
+gave 2
 
-continued
+follows 2
 
-2
+ourselves 2
 
-basics
+shrug 2
 
-2
+dropped 2
 
-wincing
+consolation 2
 
-2
+entirely 2
 
-shut
+recognized 2
 
-2
+surge 2
 
-picked
+lies 2
 
-2
+impressive 2
 
-fingers
+stereotype 2
 
-2
+i've 2
 
-freaks
+talents 2
 
-2
+they're 2
 
-tips
+dangerous 2
 
-2
+pleasant 2
 
-screams
+block 2
 
-2
+eius 2
 
-splinter
+clenched 2
 
-2
+vault 2
 
-mages
+thanks 2
 
-2
+aren't 2
 
-transfigure
+incredibly 2
 
-2
+bonding 2
 
-cudentur
+died 2
 
-2
+she's 2
 
-brilliant
+jason 1
 
-2
+foodlike 1
 
-changed
+excellent 1
 
-2
+ouch 1
 
-kilroy
+yellow 1
 
-2
+totes 1
 
-i'd
+bandits 1
 
-2
+managed 1
 
-smoke
+saved 1
 
-2
+children 1
 
-jaw
+seemed 1
 
-2
+froze 1
 
-someone's
+apprenticehttpshaknaisraelgitbooksionecromancersapprentice 1
 
-2
+lining 1
 
-angrily
+disgusting 1
 
-2
+teaching 1
 
-aptitude
+te 1
 
-2
+brown 1
 
-limb
+wideeyed 1
 
-2
+horror 1
 
-proditor
+aware 1
 
-2
+worst 1
 
-standing
+minded 1
 
-2
+surprise 1
 
-snake's
+awful 1
 
-2
+stabbed 1
 
-taken
+bellum 1
 
-2
+attributionsharealike 1
 
-sociopath
+wooden 1
 
-2
+commons 1
 
-hurt
+freaked 1
 
-2
+clothes 1
 
-sent
+i'll 1
 
-2
+owned 1
 
-anybody
+temples 1
 
-2
+knitted 1
 
-meant
+'no' 1
 
-2
+odd 1
 
-awesome
+drinks 1
 
-2
+sweetly 1
 
-pushed
+clock 1
 
-2
+magestobe 1
 
-bend
+cynical 1
 
-2
+man's 1
 
-absolute
+lights 1
 
-2
+waiting 1
 
-wrist
+capital 1
 
-2
+plucked 1
 
-neck
+filled 1
 
-2
+told 1
 
-glancing
+youngest 1
 
-2
+hadn't 1
 
-developed
+101 1
 
-2
+dry 1
 
-pointed
+ahead 1
 
-2
+leaves 1
 
-pitch
+pyromancer's 1
 
-2
+punishment 1
 
-energies
+bloomer 1
 
-2
+golden 1
 
-interesting
+named 1
 
-2
+magically 1
 
-fix
+shoved 1
 
-2
+prefer 1
 
-skipped
+marked 1
 
-2
+highly 1
 
-spell
+sliced 1
 
-2
+visible 1
 
-meat
+confidence 1
 
-2
+angry 1
 
-found
+dude 1
 
-2
+tightly 1
 
-went
+doubt 1
 
-2
+overhead 1
 
-friendship
+raggedly 1
 
-2
+aeromancy 1
 
-quivered
+headmaster's 1
 
-2
+flat 1
 
-et
+crisscrossing 1
 
-2
+apparent 1
 
-induction
+pasta 1
 
-2
+stick 1
 
-done
+smile 1
 
-2
+majority 1
 
-doesn't
+none 1
 
-2
+practicing 1
 
-given
+deserved 1
 
-2
+avoiding 1
 
-caught
+believes 1
 
-2
+wands 1
 
-we're
+excessively 1
 
-2
+exceptions 1
 
-weakly
+making 1
 
-2
+meatball 1
 
-wandering
+dedicated 1
 
-2
+bent 1
 
-nicer
+stetisse 1
 
-2
+expanding 1
 
-seen
+rapt 1
 
-2
+paused 1
 
-dozen
+bones 1
 
-2
+sharp 1
 
-transference
+offspring 1
 
-2
+drained 1
 
-gingerly
+glowing 1
 
-2
+swore 1
 
-channel
+scorn 1
 
-2
+explains 1
 
-opposite
+etched 1
 
-2
+okay 1
 
-huh
+tried 1
 
-2
+attend 1
 
-object
+funny 1
 
-2
+earlier 1
 
-insanity
+spot 1
 
-2
+replace 1
 
-device
+birthday 1
 
-2
+destined 1
 
-girl's
+coming 1
 
-2
+coloured 1
 
-average
+guys 1
 
-2
+fascinating 1
 
-came
+descent 1
 
-2
+classroom 1
 
-shot
+dorms 1
 
-2
+consequently 1
 
-carefully
+heal 1
 
-2
+interrupted 1
 
-flicked
+dragon 1
 
-2
+darkened 1
 
-nervous
+pulled 1
 
-2
+se 1
 
-spun
+ingis 1
 
-2
+breaking 1
 
-plate
+lingua 1
 
-2
+duke 1
 
-handle
+swamped 1
 
-2
+quietly 1
 
-famous
+terramancyhttpnecromancersapprenticeshaknaisraelcomimgsymbolterramancysvg 1
 
-2
+years 1
 
-cannot
+professors 1
 
-2
+rewarded 1
 
-enemy
+clapped 1
 
-2
+cocked 1
 
-softly
+tore 1
 
-2
+curls 1
 
-anyways
+he'd 1
 
-2
+suffocate 1
 
-tend
+bypass 1
 
-2
+total 1
 
-adept
+dimittite 1
 
-2
+crowds 1
 
-chosen
+haven't 1
 
-2
+chattering 1
 
-expression
+eventually 1
 
-2
+introduce 1
 
-nearby
+amulet 1
 
-2
+cutting 1
 
-studioque
+killed 1
 
-2
+nor 1
 
-learning
+sucked 1
 
-2
+shouted 1
 
-proceeded
+wielder's 1
 
-2
+james 1
 
-due
+feast 1
 
-2
+leather 1
 
-terrible
+trap 1
 
-2
+roast 1
 
-surprised
+trope 1
 
-2
+blushed 1
 
-aid
+heavy 1
 
-2
+doing 1
 
-disappear
+globe 1
 
-2
+worded 1
 
-wearing
+depositing 1
 
-2
+irritation 1
 
-saw
+scratching 1
 
-2
+transfigured 1
 
-parts
+living 1
 
-2
+missed 1
 
-muffled
+earpiercing 1
 
-2
+surrounded 1
 
-moving
+preserve 1
 
-2
+looking 1
 
-colour
+seriously 1
 
-2
+shouldn't 1
 
-abilities
+got 1
 
-2
+correct 1
 
-front
+disgust 1
 
-2
+nervously 1
 
-scattering
+'war 1
 
-2
+turning 1
 
-thankfully
+rude 1
 
-2
+bringing 1
 
-hated
+completely 1
 
-2
+unwanted 1
 
-match
+rebel 1
 
-2
+beginning 1
 
-gave
+generate 1
 
-2
+ate 1
 
-follows
+benefits 1
 
-2
+created 1
 
-ourselves
+scars 1
 
-2
+days 1
 
-shrug
+times 1
 
-2
+motion 1
 
-dropped
+arrived 1
 
-2
+castle 1
 
-consolation
+gallagher 1
 
-2
+throws 1
 
-entirely
+reinforced 1
 
-2
+emotion 1
 
-recognized
+unison 1
 
-2
+rang 1
 
-surge
+surviving 1
 
-2
+dumbfounded 1
 
-lies
+knocking 1
 
-2
+brutally 1
 
-impressive
+welcome 1
 
-2
+feet 1
 
-stereotype
+dust 1
 
-2
+magics 1
 
-i've
+thick 1
 
-2
+raggedy 1
 
-talents
+tomorrow 1
 
-2
+dragon' 1
 
-they're
+silent 1
 
-2
+misusing 1
 
-dangerous
+slept 1
 
-2
+girls 1
 
-pleasant
+plastic 1
 
-2
+passed 1
 
-block
+mermaid 1
 
-2
+mercy 1
 
-eius
+sixteenth 1
 
-2
+panic 1
 
-clenched
+sweet 1
 
-2
+took 1
 
-vault
+eyed 1
 
-2
+evil 1
 
-thanks
+shortly 1
 
-2
+brushed 1
 
-aren't
+loved 1
 
-2
+grew 1
 
-incredibly
+showed 1
 
-2
+heh 1
 
-bonding
+morphed 1
 
-2
+yawned 1
 
-died
+transferred 1
 
-2
+determined 1
 
-she's
+aimi 1
 
-2
+providing 1
 
-jason
+troublesome 1
 
-1
+ran 1
 
-foodlike
+gently 1
 
-1
+ant 1
 
-excellent
+enchanted 1
 
-1
+organs 1
 
-ouch
+tells 1
 
-1
+viewed 1
 
-yellow
+gives 1
 
-1
+forced 1
 
-totes
+dancing 1
 
-1
+shocked 1
 
-bandits
+instructed 1
 
-1
+extracted 1
 
-managed
+wanting 1
 
-1
+strode 1
 
-saved
+becoming 1
 
-1
+gravy 1
 
-children
+unless 1
 
-1
+reckon 1
 
-seemed
+paid 1
 
-1
+rumble 1
 
-froze
+charm 1
 
-1
+grateful 1
 
-apprenticehttpshaknaisraelgitbooksionecromancersapprentice
+microwaved 1
 
-1
+forever 1
 
-lining
+drawbacks 1
 
-1
+stronger 1
 
-disgusting
+wind 1
 
-1
+breathed 1
 
-teaching
+that's 1
 
-1
+laws 1
 
-te
+saying 1
 
-1
+gold 1
 
-brown
+flicker 1
 
-1
+discovered 1
 
-wideeyed
+hopes 1
 
-1
+bright 1
 
-horror
+traitor 1
 
-1
+utter 1
 
-aware
+removed 1
 
-1
+grabbed 1
 
-worst
+clutching 1
 
-1
+madman 1
 
-minded
+darted 1
 
-1
+failed 1
 
-surprise
+chimed 1
 
-1
+emitting 1
 
-awful
+circle 1
 
-1
+thousands 1
 
-stabbed
+armour 1
 
-1
+mixture 1
 
-bellum
+bateman's 1
 
-1
+storming 1
 
-attributionsharealike
+muttering 1
 
-1
+stripes 1
 
-wooden
+blinking 1
 
-1
+patted 1
 
-commons
+breast 1
 
-1
+words 1
 
-freaked
+'a' 1
 
-1
+falling 1
 
-clothes
+beads 1
 
-1
+aimimancerhttpnecromancersapprenticeshaknaisraelcomimgsymbolaimimancysvg 1
 
-i'll
+skull 1
 
-1
+textbooks 1
 
-owned
+shape 1
 
-1
+rung 1
 
-temples
+wish 1
 
-1
+insane 1
 
-knitted
+ignored 1
 
-1
+fair 1
 
-'no'
+## 1
 
-1
+blurred 1
 
-odd
+flavours 1
 
-1
+bare 1
 
-drinks
+knocked 1
 
-1
+jumped 1
 
-sweetly
+wow 1
 
-1
+currently 1
 
-clock
+please 1
 
-1
+genius 1
 
-magestobe
+unable 1
 
-1
+closed 1
 
-cynical
+hiss 1
 
-1
+conductive 1
 
-man's
+neither 1
 
-1
+nope 1
 
-lights
+knowing 1
 
-1
+perfect 1
 
-waiting
+shivered 1
 
-1
+nightmare 1
 
-capital
+omg 1
 
-1
+exam 1
 
-plucked
+vertical 1
 
-1
+missing 1
 
-filled
+confusion 1
 
-1
+weak 1
 
-told
+meh 1
 
-1
+blame 1
 
-youngest
+embarrassment 1
 
-1
+elven 1
 
-hadn't
+key 1
 
-1
+hurts 1
 
-101
+pissed 1
 
-1
+staring 1
 
-dry
+pity 1
 
-1
+twinkling 1
 
-ahead
+c 1
 
-1
+license 1
 
-leaves
+powers 1
 
-1
+barely 1
 
-pyromancer's
+demanded 1
 
-1
+became 1
 
-punishment
+waiters 1
 
-1
+conquered 1
 
-bloomer
+comes 1
 
-1
+madness 1
 
-golden
+headed 1
 
-1
+height 1
 
-named
+dissuade 1
 
-1
+vessel 1
 
-magically
+beach 1
 
-1
+vitamancers 1
 
-shoved
+considering 1
 
-1
+destroyed 1
 
-prefer
+invented 1
 
-1
+decent 1
 
-marked
+dusting 1
 
-1
+hitting 1
 
-highly
+basic 1
 
-1
+entered 1
 
-sliced
+gerit 1
 
-1
+controlled 1
 
-visible
+finishes 1
 
-1
+pixies 1
 
-confidence
+twinge 1
 
-1
+gripped 1
 
-angry
+finished 1
 
-1
+covered 1
 
-dude
+careful 1
 
-1
+flashing 1
 
-tightly
+chill 1
 
-1
+defining 1
 
-doubt
+irises 1
 
-1
+shockwave 1
 
-overhead
+forgetting 1
 
-1
+replaced 1
 
-raggedly
+fault 1
 
-1
+vegetarian 1
 
-aeromancy
+swim 1
 
-1
+smacked 1
 
-headmaster's
+shades 1
 
-1
+speech 1
 
-flat
+examined 1
 
-1
+chase 1
 
-crisscrossing
+growl 1
 
-1
+harsh 1
 
-apparent
+began 1
 
-1
+waitresses 1
 
-pasta
+slammed 1
 
-1
+corridor 1
 
-stick
+gets 1
 
-1
+tapped 1
 
-smile
+hermit 1
 
-1
+fairly 1
 
-majority
+elbows 1
 
-1
+screw 1
 
-none
+forgotten 1
 
-1
+user 1
 
-practicing
+puff 1
 
-1
+utterly 1
 
-deserved
+assortment 1
 
-1
+totally 1
 
-avoiding
+blamed 1
 
-1
+thoughts 1
 
-believes
+tracking 1
 
-1
+magicae 1
 
-wands
+tensed 1
 
-1
+wisps 1
 
-excessively
+cheek 1
 
-1
+obviously 1
 
-exceptions
+ragged 1
 
-1
+exceedingly 1
 
-making
+boring 1
 
-1
+greatest 1
 
-meatball
+bodies 1
 
-1
+slutty 1
 
-dedicated
+watching 1
 
-1
+protocol 1
 
-bent
+listening 1
 
-1
+fears 1
 
-stetisse
+imprint 1
 
-1
+professor's 1
 
-expanding
+growled 1
 
-1
+victim 1
 
-rapt
+touch 1
 
-1
+kitchens 1
 
-paused
+alternative 1
 
-1
+prince 1
 
-bones
+blow 1
 
-1
+execution 1
 
-sharp
+console 1
 
-1
+tight 1
 
-offspring
+thinking 1
 
-1
+supply 1
 
-drained
+seems 1
 
-1
+cue 1
 
-glowing
+slits 1
 
-1
+bigger 1
 
-swore
+crack 1
 
-1
+cum 1
 
-scorn
+reverted 1
 
-1
+grip 1
 
-explains
+holding 1
 
-1
+aquamancy 1
 
-etched
+amy 1
 
-1
+whispers 1
 
-okay
+necromancer's 1
 
-1
+birth 1
 
-tried
+desk 1
 
-1
+unique 1
 
-attend
+dreams 1
 
-1
+maidr 1
 
-funny
+lost 1
 
-1
+gift 1
 
-earlier
+clay 1
 
-1
+works 1
 
-spot
+twelve 1
 
-1
+trained 1
 
-replace
+crowd 1
 
-1
+somehow 1
 
-birthday
+hush 1
 
-1
+repeat 1
 
-destined
+sight 1
 
-1
+dear 1
 
-coming
+canteen 1
 
-1
+pale 1
 
-coloured
+rarely 1
 
-1
+disbelief 1
 
-guys
+ice 1
 
-1
+creative 1
 
-fascinating
+staffs 1
 
-1
+eating 1
 
-descent
+refused 1
 
-1
+whacky 1
 
-classroom
+sixty 1
 
-1
+reversing 1
 
-dorms
+terramancer 1
 
-1
+beaches 1
 
-consequently
+chapter 1
 
-1
+giggle 1
 
-heal
+impenetrable 1
 
-1
+getting 1
 
-interrupted
+island 1
 
-1
+withdrew 1
 
-dragon
+isn't 1
 
-1
+magicless 1
 
-darkened
+os 1
 
-1
+silence 1
 
-pulled
+enigmatic 1
 
-1
+stitched 1
 
-se
+ventusamancer 1
 
-1
+blessed 1
 
-ingis
+struggle 1
 
-1
+donated 1
 
-breaking
+tiny 1
 
-1
+creagras 1
 
-lingua
+forth 1
 
-1
+deception 1
 
-duke
+warned 1
 
-1
+vegetables 1
 
-swamped
+noticed 1
 
-1
+stuck 1
 
-quietly
+striding 1
 
-1
+vehemence 1
 
-terramancyhttpnecromancersapprenticeshaknaisraelcomimgsymbolterramancysvg
+milne 1
 
-1
+slang 1
 
-years
+troublemaking 1
 
-1
+damn 1
 
-professors
+hysterical 1
 
-1
+fork 1
 
-rewarded
+warble 1
 
-1
+bitches 1
 
-clapped
+highandmight 1
 
-1
+amongst 1
 
-cocked
+volume 1
 
-1
+reminds 1
 
-tore
+repeatedly 1
 
-1
+astonished 1
 
-curls
+collapses 1
 
-1
+raising 1
 
-he'd
+straightaway 1
 
-1
+misbehaviour 1
 
-suffocate
+rage 1
 
-1
+sapping 1
 
-bypass
+placed 1
 
-1
+convince 1
 
-total
+limit 1
 
-1
+tones 1
 
-dimittite
+faded 1
 
-1
+unusually 1
 
-crowds
+skating 1
 
-1
+taste 1
 
-haven't
+stripped 1
 
-1
+nightmares 1
 
-chattering
+cringed 1
 
-1
+cure 1
 
-eventually
+families 1
 
-1
+floating 1
 
-introduce
+draco 1
 
-1
+knows 1
 
-amulet
+40 1
 
-1
+started 1
 
-cutting
+suspiciously 1
 
-1
+met 1
 
-killed
+users 1
 
-1
+breasts 1
 
-nor
+let's 1
 
-1
+fell 1
 
-sucked
+pierced 1
 
-1
+awkwardly 1
 
-shouted
+cliff 1
 
-1
+remote 1
 
-wielder's
+calls 1
 
-1
+potato 1
 
-james
+required 1
 
-1
+scream 1
 
-feast
+dinkus 1
 
-1
+literally 1
 
-leather
+having 1
 
-1
-
-trap
-
-1
-
-roast
-
-1
-
-trope
-
-1
-
-blushed
-
-1
-
-heavy
-
-1
-
-doing
-
-1
-
-globe
-
-1
-
-worded
-
-1
-
-depositing
-
-1
-
-irritation
-
-1
-
-scratching
-
-1
-
-transfigured
-
-1
-
-living
-
-1
-
-missed
-
-1
-
-earpiercing
-
-1
-
-surrounded
-
-1
-
-preserve
-
-1
-
-looking
-
-1
-
-seriously
-
-1
-
-shouldn't
-
-1
-
-got
-
-1
-
-correct
-
-1
-
-disgust
-
-1
-
-nervously
-
-1
-
-'war
-
-1
-
-turning
-
-1
-
-rude
-
-1
-
-bringing
-
-1
-
-completely
-
-1
-
-unwanted
-
-1
-
-rebel
-
-1
-
-beginning
-
-1
-
-generate
-
-1
-
-ate
-
-1
-
-benefits
-
-1
-
-created
-
-1
-
-scars
-
-1
-
-days
-
-1
-
-times
-
-1
-
-motion
-
-1
-
-arrived
-
-1
-
-castle
-
-1
-
-gallagher
-
-1
-
-throws
-
-1
-
-reinforced
-
-1
-
-emotion
-
-1
-
-unison
-
-1
-
-rang
-
-1
-
-surviving
-
-1
-
-dumbfounded
-
-1
-
-knocking
-
-1
-
-brutally
-
-1
-
-welcome
-
-1
-
-feet
-
-1
-
-dust
-
-1
-
-magics
-
-1
-
-thick
-
-1
-
-raggedy
-
-1
-
-tomorrow
-
-1
-
-dragon'
-
-1
-
-silent
-
-1
-
-misusing
-
-1
-
-slept
-
-1
-
-girls
-
-1
-
-plastic
-
-1
-
-passed
-
-1
-
-mermaid
-
-1
-
-mercy
-
-1
-
-sixteenth
-
-1
-
-panic
-
-1
-
-sweet
-
-1
-
-took
-
-1
-
-eyed
-
-1
-
-evil
-
-1
-
-shortly
-
-1
-
-brushed
-
-1
-
-loved
-
-1
-
-grew
-
-1
-
-showed
-
-1
-
-heh
-
-1
-
-morphed
-
-1
-
-yawned
-
-1
-
-transferred
-
-1
-
-determined
-
-1
-
-aimi
-
-1
-
-providing
-
-1
-
-troublesome
-
-1
-
-ran
-
-1
-
-gently
-
-1
-
-ant
-
-1
-
-enchanted
-
-1
-
-organs
-
-1
-
-tells
-
-1
-
-viewed
-
-1
-
-gives
-
-1
-
-forced
-
-1
-
-dancing
-
-1
-
-shocked
-
-1
-
-instructed
-
-1
-
-extracted
-
-1
-
-wanting
-
-1
-
-strode
-
-1
-
-becoming
-
-1
-
-gravy
-
-1
-
-unless
-
-1
-
-reckon
-
-1
-
-paid
-
-1
-
-rumble
-
-1
-
-charm
-
-1
-
-grateful
-
-1
-
-microwaved
-
-1
-
-forever
-
-1
-
-drawbacks
-
-1
-
-stronger
-
-1
-
-wind
-
-1
-
-breathed
-
-1
-
-that's
-
-1
-
-laws
-
-1
-
-saying
-
-1
-
-gold
-
-1
-
-flicker
-
-1
-
-discovered
-
-1
-
-hopes
-
-1
-
-bright
-
-1
-
-traitor
-
-1
-
-utter
-
-1
-
-removed
-
-1
-
-grabbed
-
-1
-
-clutching
-
-1
-
-madman
-
-1
-
-darted
-
-1
-
-failed
-
-1
-
-chimed
-
-1
-
-emitting
-
-1
-
-circle
-
-1
-
-thousands
-
-1
-
-armour
-
-1
-
-mixture
-
-1
-
-bateman's
-
-1
-
-storming
-
-1
-
-muttering
-
-1
-
-stripes
-
-1
-
-blinking
-
-1
-
-patted
-
-1
-
-breast
-
-1
-
-words
-
-1
-
-'a'
-
-1
-
-falling
-
-1
-
-beads
-
-1
-
-aimimancerhttpnecromancersapprenticeshaknaisraelcomimgsymbolaimimancysvg
-
-1
-
-skull
-
-1
-
-textbooks
-
-1
-
-shape
-
-1
-
-rung
-
-1
-
-wish
-
-1
-
-insane
-
-1
-
-ignored
-
-1
-
-fair
-
-1
-
-##
-
-1
-
-blurred
-
-1
-
-flavours
-
-1
-
-bare
-
-1
-
-knocked
-
-1
-
-jumped
-
-1
-
-wow
-
-1
-
-currently
-
-1
-
-please
-
-1
-
-genius
-
-1
-
-unable
-
-1
-
-closed
-
-1
-
-hiss
-
-1
-
-conductive
-
-1
-
-neither
-
-1
-
-nope
-
-1
-
-knowing
-
-1
-
-perfect
-
-1
-
-shivered
-
-1
-
-nightmare
-
-1
-
-omg
-
-1
-
-exam
-
-1
-
-vertical
-
-1
-
-missing
-
-1
-
-confusion
-
-1
-
-weak
-
-1
-
-meh
-
-1
-
-blame
-
-1
-
-embarrassment
-
-1
-
-elven
-
-1
-
-key
-
-1
-
-hurts
-
-1
-
-pissed
-
-1
-
-staring
-
-1
-
-pity
-
-1
-
-twinkling
-
-1
-
-c
-
-1
-
-license
-
-1
-
-powers
-
-1
-
-barely
-
-1
-
-demanded
-
-1
-
-became
-
-1
-
-waiters
-
-1
-
-conquered
-
-1
-
-comes
-
-1
-
-madness
-
-1
-
-headed
-
-1
-
-height
-
-1
-
-dissuade
-
-1
-
-vessel
-
-1
-
-beach
-
-1
-
-vitamancers
-
-1
-
-considering
-
-1
-
-destroyed
-
-1
-
-invented
-
-1
-
-decent
-
-1
-
-dusting
-
-1
-
-hitting
-
-1
-
-basic
-
-1
-
-entered
-
-1
-
-gerit
-
-1
-
-controlled
-
-1
-
-finishes
-
-1
-
-pixies
-
-1
-
-twinge
-
-1
-
-gripped
-
-1
-
-finished
-
-1
-
-covered
-
-1
-
-careful
-
-1
-
-flashing
-
-1
-
-chill
-
-1
-
-defining
-
-1
-
-irises
-
-1
-
-shockwave
-
-1
-
-forgetting
-
-1
-
-replaced
-
-1
-
-fault
-
-1
-
-vegetarian
-
-1
-
-swim
-
-1
-
-smacked
-
-1
-
-shades
-
-1
-
-speech
-
-1
-
-examined
-
-1
-
-chase
-
-1
-
-growl
-
-1
-
-harsh
-
-1
-
-began
-
-1
-
-waitresses
-
-1
-
-slammed
-
-1
-
-corridor
-
-1
-
-gets
-
-1
-
-tapped
-
-1
-
-hermit
-
-1
-
-fairly
-
-1
-
-elbows
-
-1
-
-screw
-
-1
-
-forgotten
-
-1
-
-user
-
-1
-
-puff
-
-1
-
-utterly
-
-1
-
-assortment
-
-1
-
-totally
-
-1
-
-blamed
-
-1
-
-thoughts
-
-1
-
-tracking
-
-1
-
-magicae
-
-1
-
-tensed
-
-1
-
-wisps
-
-1
-
-cheek
-
-1
-
-obviously
-
-1
-
-ragged
-
-1
-
-exceedingly
-
-1
-
-boring
-
-1
-
-greatest
-
-1
-
-bodies
-
-1
-
-slutty
-
-1
-
-watching
-
-1
-
-protocol
-
-1
-
-listening
-
-1
-
-fears
-
-1
-
-imprint
-
-1
-
-professor's
-
-1
-
-growled
-
-1
-
-victim
-
-1
-
-touch
-
-1
-
-kitchens
-
-1
-
-alternative
-
-1
-
-prince
-
-1
-
-blow
-
-1
-
-execution
-
-1
-
-console
-
-1
-
-tight
-
-1
-
-thinking
-
-1
-
-supply
-
-1
-
-seems
-
-1
-
-cue
-
-1
-
-slits
-
-1
-
-bigger
-
-1
-
-crack
-
-1
-
-cum
-
-1
-
-reverted
-
-1
-
-grip
-
-1
-
-holding
-
-1
-
-aquamancy
-
-1
-
-amy
-
-1
-
-whispers
-
-1
-
-necromancer's
-
-1
-
-birth
-
-1
-
-desk
-
-1
-
-unique
-
-1
-
-dreams
-
-1
-
-maidr
-
-1
-
-lost
-
-1
-
-gift
-
-1
-
-clay
-
-1
-
-works
-
-1
-
-twelve
-
-1
-
-trained
-
-1
-
-crowd
-
-1
-
-somehow
-
-1
-
-hush
-
-1
-
-repeat
-
-1
-
-sight
-
-1
-
-dear
-
-1
-
-canteen
-
-1
-
-pale
-
-1
-
-rarely
-
-1
-
-disbelief
-
-1
-
-ice
-
-1
-
-creative
-
-1
-
-staffs
-
-1
-
-eating
-
-1
-
-refused
-
-1
-
-whacky
-
-1
-
-sixty
-
-1
-
-reversing
-
-1
-
-terramancer
-
-1
-
-beaches
-
-1
-
-chapter
-
-1
-
-giggle
-
-1
-
-impenetrable
-
-1
-
-getting
-
-1
-
-island
-
-1
-
-withdrew
-
-1
-
-isn't
-
-1
-
-magicless
-
-1
-
-os
-
-1
-
-silence
-
-1
-
-enigmatic
-
-1
-
-stitched
-
-1
-
-ventusamancer
-
-1
-
-blessed
-
-1
-
-struggle
-
-1
-
-donated
-
-1
-
-tiny
-
-1
-
-creagras
-
-1
-
-forth
-
-1
-
-deception
-
-1
-
-warned
-
-1
-
-vegetables
-
-1
-
-noticed
-
-1
-
-stuck
-
-1
-
-striding
-
-1
-
-vehemence
-
-1
-
-milne
-
-1
-
-slang
-
-1
-
-troublemaking
-
-1
-
-damn
-
-1
-
-hysterical
-
-1
-
-fork
-
-1
-
-warble
-
-1
-
-bitches
-
-1
-
-highandmight
-
-1
-
-amongst
-
-1
-
-volume
-
-1
-
-reminds
-
-1
-
-repeatedly
-
-1
-
-astonished
-
-1
-
-collapses
-
-1
-
-raising
-
-1
-
-straightaway
-
-1
-
-misbehaviour
-
-1
-
-rage
-
-1
-
-sapping
-
-1
-
-placed
-
-1
-
-convince
-
-1
-
-limit
-
-1
-
-tones
-
-1
-
-faded
-
-1
-
-unusually
-
-1
-
-skating
-
-1
-
-taste
-
-1
-
-stripped
-
-1
-
-nightmares
-
-1
-
-cringed
-
-1
-
-cure
-
-1
-
-families
-
-1
-
-floating
-
-1
-
-draco
-
-1
-
-knows
-
-1
-
-40
-
-1
-
-started
-
-1
-
-suspiciously
-
-1
-
-met
-
-1
-
-users
-
-1
-
-breasts
-
-1
-
-let's
-
-1
-
-fell
-
-1
-
-pierced
-
-1
-
-awkwardly
-
-1
-
-cliff
-
-1
-
-remote
-
-1
-
-calls
-
-1
-
-potato
-
-1
-
-required
-
-1
-
-scream
-
-1
-
-dinkus
-
-1
-
-literally
-
-1
-
-having
-
-1
-
-basically
-
-1
+basically 1
 

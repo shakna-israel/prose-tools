@@ -1,4 +1,4 @@
-Extracted from [Necromancer's Apprentice](http://shakna-israel.gitbooks.io/necromancer-s-apprentice/), under the Creative Commons Attribution-ShareAlike 4.0 International Public License.
+Extracted from [Necromancer's Apprentice](http://shakna-israel.gitbooks.io/necromancer-s-apprentice/), under the Creative Commons Attribution-ShareAlike 4.0 International Public License, (c) James Milne.
 
 ## Chapter One
 

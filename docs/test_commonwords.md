@@ -46,15 +46,13 @@ ahead
 
 aid
 
-aimi?
+aimi
 
 aimimancer
 
 aimimancerhttpnecromancersapprenticeshaknaisraelcomimgsymbolaimimancysvg
 
 aimimancers
-
-aimimancers?
 
 aimimancy
 
@@ -74,7 +72,7 @@ amongst
 
 amulet
 
-amy?
+amy
 
 angrily
 
@@ -87,8 +85,6 @@ ant
 anybody
 
 anyone
-
-anyone?
 
 anything
 
@@ -115,8 +111,6 @@ arm
 armour
 
 around
-
-around?
 
 arrived
 
@@ -290,8 +284,6 @@ bringing
 
 broken
 
-broken?
-
 brown
 
 brunette
@@ -422,7 +414,7 @@ controlled
 
 convince
 
-correct?
+correct
 
 corridor
 
@@ -454,7 +446,7 @@ cue
 
 cum
 
-cure?
+cure
 
 curls
 
@@ -509,8 +501,6 @@ destined
 destroyed
 
 detention
-
-detention?
 
 determined
 
@@ -620,8 +610,6 @@ elbows
 
 elf
 
-elf?
-
 else
 
 elven
@@ -694,8 +682,6 @@ expanding
 
 expect
 
-expect?
-
 expected
 
 experience
@@ -717,8 +703,6 @@ eyed
 eyes
 
 face
-
-face?
 
 faded
 
@@ -972,15 +956,11 @@ he'd
 
 head
 
-head?
-
 headed
 
 headmaster
 
 headmaster's
-
-headmaster?
 
 heal
 
@@ -998,11 +978,7 @@ hell
 
 help
 
-her?
-
 here
-
-here?
 
 hermit
 
@@ -1236,8 +1212,6 @@ magestobe
 
 magic
 
-magic?
-
 magicae
 
 magical
@@ -1274,13 +1248,11 @@ maybe
 
 mean
 
-mean?
-
 means
 
 meant
 
-meat?
+meat
 
 meatball
 
@@ -1332,8 +1304,6 @@ motion
 
 mouth
 
-mouth?
-
 moving
 
 much
@@ -1361,8 +1331,6 @@ neck
 necromancer
 
 necromancer's
-
-necromancer?
 
 need
 
@@ -1460,7 +1428,7 @@ passed
 
 past
 
-pasta?
+pasta
 
 patted
 
@@ -1500,7 +1468,7 @@ plate
 
 pleasant
 
-please?
+please
 
 plucked
 
@@ -1600,8 +1568,6 @@ real
 
 really
 
-really?
-
 reason
 
 rebel
@@ -1644,8 +1610,6 @@ rewarded
 
 right
 
-right?
-
 roast
 
 rock
@@ -1680,8 +1644,6 @@ saved
 
 saw
 
-say?
-
 saying
 
 scales
@@ -1691,8 +1653,6 @@ scars
 scattering
 
 school
-
-school?
 
 schools
 
@@ -1728,7 +1688,7 @@ sent
 
 serious
 
-seriously?
+seriously
 
 set
 
@@ -1892,8 +1852,6 @@ state
 
 stereotype
 
-stereotype?
-
 stetisse
 
 stick
@@ -1988,8 +1946,6 @@ teaching
 
 tell
 
-tell?
-
 tells
 
 temples
@@ -2018,8 +1974,6 @@ that's
 
 the
 
-them?
-
 themselves
 
 they're
@@ -2029,8 +1983,6 @@ thick
 thing
 
 things
-
-think?
 
 thinking
 
@@ -2054,8 +2006,6 @@ tight
 
 tightly
 
-time?
-
 times
 
 tiny
@@ -2074,13 +2024,9 @@ tones
 
 tongue
 
-tongue?
-
 tonight
 
 too
-
-too?
 
 took
 
@@ -2124,7 +2070,7 @@ tried
 
 trope
 
-troublemaking?
+troublemaking
 
 troublesome
 
@@ -2164,7 +2110,7 @@ unwanted
 
 used
 
-user?
+user
 
 users
 
@@ -2242,8 +2188,6 @@ water
 
 wave
 
-way?
-
 we're
 
 weak
@@ -2262,8 +2206,6 @@ were
 
 whacky
 
-what?
-
 whatever
 
 where
@@ -2277,8 +2219,6 @@ white
 whole
 
 why
-
-why?
 
 wideeyed
 
@@ -2310,8 +2250,6 @@ works
 
 world
 
-world?
-
 worse
 
 worst
@@ -2337,8 +2275,6 @@ yet
 you'll
 
 you're
-
-you?
 
 young
 

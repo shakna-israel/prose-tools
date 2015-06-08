@@ -18,7 +18,7 @@ def charIgnoreList(cliArgs):
     if cliArgs.character_list:
         characterIgnoreList = fileList(cliArgs.character_list)
     else:
-        characterIgnoreList = ['"','.',',',';',':','(',')','{','}','[',']','/','\\','!','-','_','+','=','*','&','^','%','$','@']
+        characterIgnoreList = ['"','.',',',';',':','(',')','{','}','[',']','/','\\','!','-','_','+','=','*','&','^','%','$','@','?']
     return characterIgnoreList
 
 # A list of common English words to ignore.

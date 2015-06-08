@@ -22,6 +22,10 @@ are
 
 26
 
+magic
+
+23
+
 is
 
 23
@@ -30,13 +34,9 @@ abigail
 
 23
 
-magic
-
-22
-
 head
 
-19
+20
 
 smiled
 
@@ -54,6 +54,10 @@ had
 
 14
 
+school
+
+13
+
 don't
 
 13
@@ -65,10 +69,6 @@ glared
 winced
 
 13
-
-school
-
-12
 
 you're
 
@@ -90,6 +90,14 @@ did
 
 11
 
+world
+
+11
+
+around
+
+11
+
 am
 
 11
@@ -102,9 +110,9 @@ sighed
 
 10
 
-around
+here
 
-10
+9
 
 eyes
 
@@ -115,10 +123,6 @@ were
 9
 
 blinked
-
-9
-
-world
 
 9
 
@@ -158,6 +162,14 @@ it's
 
 8
 
+right
+
+8
+
+mouth
+
+8
+
 aimimancy
 
 8
@@ -167,10 +179,6 @@ aimimancy
 7
 
 stood
-
-7
-
-here
 
 7
 
@@ -194,6 +202,10 @@ girl
 
 7
 
+why
+
+7
+
 staff
 
 7
@@ -202,15 +214,15 @@ said
 
 7
 
+elf
+
+7
+
 table
 
 7
 
 elves
-
-7
-
-mouth
 
 7
 
@@ -250,6 +262,10 @@ bracken
 
 6
 
+face
+
+6
+
 away
 
 6
@@ -262,11 +278,7 @@ sat
 
 6
 
-right
-
-6
-
-you?
+tongue
 
 6
 
@@ -275,6 +287,10 @@ walked
 6
 
 sorry
+
+5
+
+detention
 
 5
 
@@ -314,19 +330,15 @@ yeah
 
 5
 
+really
+
+5
+
 onto
 
 5
 
 least
-
-5
-
-why
-
-5
-
-face
 
 5
 
@@ -347,10 +359,6 @@ where
 5
 
 ears
-
-5
-
-elf
 
 5
 
@@ -383,10 +391,6 @@ finish
 5
 
 young
-
-4
-
-detention
 
 4
 
@@ -442,7 +446,7 @@ hall
 
 4
 
-really
+mean
 
 4
 
@@ -506,6 +510,10 @@ thought
 
 4
 
+necromancer
+
+4
+
 has
 
 4
@@ -522,10 +530,6 @@ does
 
 4
 
-tongue
-
-4
-
 transfer
 
 4
@@ -535,6 +539,10 @@ lot
 4
 
 trying
+
+4
+
+tell
 
 4
 
@@ -570,10 +578,6 @@ worse
 
 3
 
-pixie
-
-3
-
 wait
 
 3
@@ -582,11 +586,19 @@ great
 
 3
 
+fiona's
+
+3
+
 scales
 
 3
 
 cloak
+
+3
+
+expect
 
 3
 
@@ -642,10 +654,6 @@ rock
 
 3
 
-mean
-
-3
-
 little
 
 3
@@ -655,6 +663,10 @@ place
 3
 
 introduction
+
+3
+
+anyone
 
 3
 
@@ -674,7 +686,15 @@ tonight
 
 3
 
+headmaster
+
+3
+
 knew
+
+3
+
+pixie
 
 3
 
@@ -754,10 +774,6 @@ understand
 
 3
 
-fiona's
-
-3
-
 many
 
 3
@@ -775,10 +791,6 @@ things
 3
 
 being
-
-3
-
-necromancer
 
 3
 
@@ -811,6 +823,10 @@ aimimancyhttpnecromancersapprenticeshaknaisraelcomimgsymbolaimimancysvg
 3
 
 towards
+
+3
+
+broken
 
 3
 
@@ -858,10 +874,6 @@ made
 
 3
 
-tell
-
-3
-
 yelled
 
 3
@@ -899,6 +911,10 @@ sent
 2
 
 fists
+
+2
+
+anyways
 
 2
 
@@ -994,14 +1010,6 @@ handle
 
 2
 
-here?
-
-2
-
-broken
-
-2
-
 brilliant
 
 2
@@ -1058,10 +1066,6 @@ snake's
 
 2
 
-right?
-
-2
-
 next
 
 2
@@ -1082,23 +1086,15 @@ sociopath
 
 2
 
-them?
-
-2
-
 hurt
 
 2
 
-meat?
-
-2
-
-anyways
-
-2
-
 arm
+
+2
+
+aimimancers
 
 2
 
@@ -1131,6 +1127,10 @@ absolute
 2
 
 sit
+
+2
+
+sanamancy
 
 2
 
@@ -1194,10 +1194,6 @@ fix
 
 2
 
-world?
-
-2
-
 food
 
 2
@@ -1246,10 +1242,6 @@ induction
 
 2
 
-elf?
-
-2
-
 doesn't
 
 2
@@ -1259,6 +1251,10 @@ put
 2
 
 care
+
+2
+
+stereotype
 
 2
 
@@ -1278,7 +1274,7 @@ caught
 
 2
 
-anyone
+too
 
 2
 
@@ -1315,14 +1311,6 @@ opposite
 2
 
 huh
-
-2
-
-headmaster
-
-2
-
-tongue?
 
 2
 
@@ -1438,6 +1426,10 @@ learning
 
 2
 
+speak
+
+2
+
 proceeded
 
 2
@@ -1475,10 +1467,6 @@ surprised
 2
 
 aid
-
-2
-
-expect?
 
 2
 
@@ -1522,11 +1510,11 @@ moving
 
 2
 
-vault
+kid
 
 2
 
-kid
+dark
 
 2
 
@@ -1586,7 +1574,7 @@ big
 
 2
 
-dark
+meat
 
 2
 
@@ -1619,14 +1607,6 @@ object
 2
 
 late
-
-2
-
-speak
-
-2
-
-think?
 
 2
 
@@ -1667,14 +1647,6 @@ lies
 2
 
 impressive
-
-2
-
-why?
-
-2
-
-sanamancy
 
 2
 
@@ -1727,6 +1699,10 @@ shut
 2
 
 floor
+
+2
+
+vault
 
 2
 
@@ -1834,10 +1810,6 @@ send
 
 1
 
-really?
-
-1
-
 teaching
 
 1
@@ -1847,10 +1819,6 @@ te
 1
 
 brown
-
-1
-
-flicker
 
 1
 
@@ -1926,10 +1894,6 @@ freaked
 
 1
 
-broken?
-
-1
-
 clothes
 
 1
@@ -1959,10 +1923,6 @@ past
 1
 
 likely
-
-1
-
-her?
 
 1
 
@@ -2035,10 +1995,6 @@ told
 1
 
 full
-
-1
-
-say?
 
 1
 
@@ -2126,10 +2082,6 @@ marked
 
 1
 
-expect
-
-1
-
 visible
 
 1
@@ -2186,11 +2138,19 @@ crisscrossing
 
 1
 
+evening
+
+1
+
 started
 
 1
 
 apparent
+
+1
+
+pasta
 
 1
 
@@ -2250,10 +2210,6 @@ excessively
 
 1
 
-aimimancers
-
-1
-
 exceptions
 
 1
@@ -2275,10 +2231,6 @@ heh
 1
 
 expanding
-
-1
-
-stereotype?
 
 1
 
@@ -2311,10 +2263,6 @@ offspring
 1
 
 drained
-
-1
-
-around?
 
 1
 
@@ -2650,19 +2598,11 @@ scratching
 
 1
 
-thick
-
-1
-
 transfigured
 
 1
 
 living
-
-1
-
-time?
 
 1
 
@@ -2690,6 +2630,10 @@ looking
 
 1
 
+seriously
+
+1
+
 shouldn't
 
 1
@@ -2698,7 +2642,7 @@ got
 
 1
 
-cure?
+correct
 
 1
 
@@ -2782,10 +2726,6 @@ days
 
 1
 
-stereotype
-
-1
-
 times
 
 1
@@ -2858,11 +2798,7 @@ dust
 
 1
 
-too?
-
-1
-
-anyone?
+thick
 
 1
 
@@ -2918,10 +2854,6 @@ hundred
 
 1
 
-too
-
-1
-
 mercy
 
 1
@@ -2950,19 +2882,11 @@ trope
 
 1
 
-gently
-
-1
-
 eyed
 
 1
 
 evil
-
-1
-
-magic?
 
 1
 
@@ -2990,7 +2914,7 @@ showed
 
 1
 
-head?
+gently
 
 1
 
@@ -3018,7 +2942,7 @@ determined
 
 1
 
-headmaster?
+aimi
 
 1
 
@@ -3027,10 +2951,6 @@ mermaid
 1
 
 college
-
-1
-
-troublemaking?
 
 1
 
@@ -3158,10 +3078,6 @@ charm
 
 1
 
-detention?
-
-1
-
 grateful
 
 1
@@ -3171,10 +3087,6 @@ microwaved
 1
 
 reversing
-
-1
-
-volume
 
 1
 
@@ -3226,7 +3138,7 @@ slutty
 
 1
 
-mean?
+flicker
 
 1
 
@@ -3318,10 +3230,6 @@ above
 
 1
 
-please?
-
-1
-
 bateman's
 
 1
@@ -3390,10 +3298,6 @@ shape
 
 1
 
-necromancer?
-
-1
-
 bad
 
 1
@@ -3458,10 +3362,6 @@ holding
 
 1
 
-omg
-
-1
-
 skill
 
 1
@@ -3482,15 +3382,15 @@ knocked
 
 1
 
-tell?
-
-1
-
 jumped
 
 1
 
 currently
+
+1
+
+please
 
 1
 
@@ -3514,10 +3414,6 @@ neither
 
 1
 
-face?
-
-1
-
 nope
 
 1
@@ -3538,7 +3434,7 @@ shivered
 
 1
 
-seriously?
+omg
 
 1
 
@@ -3599,10 +3495,6 @@ pity
 1
 
 c
-
-1
-
-way?
 
 1
 
@@ -3686,10 +3578,6 @@ vitamancers
 
 1
 
-second
-
-1
-
 considering
 
 1
@@ -3702,7 +3590,7 @@ destroyed
 
 1
 
-stripped
+second
 
 1
 
@@ -3731,10 +3619,6 @@ entered
 1
 
 gerit
-
-1
-
-mouth?
 
 1
 
@@ -3838,10 +3722,6 @@ grip
 
 1
 
-amy?
-
-1
-
 smacked
 
 1
@@ -3902,6 +3782,10 @@ corridor
 
 1
 
+amulet
+
+1
+
 tapped
 
 1
@@ -3927,6 +3811,10 @@ forgotten
 1
 
 enter
+
+1
+
+user
 
 1
 
@@ -3958,10 +3846,6 @@ thoughts
 
 1
 
-amulet
-
-1
-
 tracking
 
 1
@@ -3979,10 +3863,6 @@ wisps
 1
 
 cheek
-
-1
-
-pasta?
 
 1
 
@@ -4106,6 +3986,10 @@ aquamancy
 
 1
 
+amy
+
+1
+
 whispers
 
 1
@@ -4158,10 +4042,6 @@ gallagher
 
 1
 
-school?
-
-1
-
 continue
 
 1
@@ -4175,10 +4055,6 @@ clay
 1
 
 works
-
-1
-
-aimi?
 
 1
 
@@ -4422,6 +4298,10 @@ slang
 
 1
 
+troublemaking
+
+1
+
 forward
 
 1
@@ -4442,10 +4322,6 @@ himself
 
 1
 
-what?
-
-1
-
 bigger
 
 1
@@ -4463,6 +4339,10 @@ highandmight
 1
 
 amongst
+
+1
+
+volume
 
 1
 
@@ -4534,7 +4414,7 @@ taste
 
 1
 
-user?
+stripped
 
 1
 
@@ -4546,11 +4426,7 @@ cringed
 
 1
 
-evening
-
-1
-
-correct?
+cure
 
 1
 
@@ -4659,10 +4535,6 @@ leather
 1
 
 required
-
-1
-
-aimimancers?
 
 1
 
